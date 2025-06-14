@@ -1,4 +1,4 @@
-# Olá! Prazer, Tiago Braga 👋
+# Hello Word, Tiago Braga 👋
 
 - Analista de Negócios e Product Owner na empresa Linear Sistemas
 - Apaixonado por desenvolvimento de software, produtos e soluções inovadoras
@@ -32,15 +32,31 @@ Tenho interesse também em mecânica automotiva, principalmente em <img src="htt
 
 ## 🚀 Alguns dos meus Projetos:
 
-- Extensão Chrome para monitoramento de solicitações iOTY
-- Projetos pessoais de automação e produtividade
+<p align="center" >
+
+<table border="1">
+<colgroup>
+<col><col align="char" char=".">
+<thead>
+<tr><th> PROJETOS: </th><th>Projeto:</th></tr>
+<tbody>
+
+
+<tr><td>🤖Monitor Ioty 1.0:    </td><td> 👉<a href="https://github.com/brstiago/iOTY-Monitor---Extens-o-Cromhium.git"> 💾</a>   </td></tr>
+<tr><td>🤖Gerador de Senhas Padronizadas:   </td><td> 👉<a href="https://github.com/brstiago/Gerador-de-Senhas-.git"> 💾</a>      </td></tr>
+
+
+</tbody>
+</table>
+
+</p>
 
 ---
 
 ## 📫 Como me encontrar:
 
  <a href = "mailto:tiago.braga.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=apple&logoColor=white" target="_blank"></a>  	
-  <a href="https://www.linkedin.com/in/tiago-braga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tiago-braga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ---
 
