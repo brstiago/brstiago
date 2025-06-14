@@ -2,17 +2,15 @@
 
 - Analista de Negócios e Product Owner na empresa Linear Sistemas
 - Apaixonado por desenvolvimento de software, produtos e soluções inovadoras
-- Estudando e aprendendo sempre, buscando melhorar e crescer profissionalmente
 
 ---
  <div align="center">
   <a href="https://github.com/brstiago">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brstiago&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brstiago&layout=compact&langs_count=7&theme=radical"/>
-
 ---
 
-## 📊 Minhas Linguagens mais usadas:
+## 📊 Linguagens que já usei:
 
 <!-- START LANGUAGE STATS -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
