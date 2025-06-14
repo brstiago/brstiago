@@ -39,7 +39,7 @@ Tenho interesse também em mecânica automotiva, buscando sempre aprender coisas
 
 - LinkedIn: [linkedin.com/in/tiago-braga](https://www.linkedin.com/in/tiago-braga/)
 - GitHub: [github.com/tiagobraga](https://github.com/tiagobraga)
-- Email: tiago.braga@example.com
+- Email: tiago.braga@live.com
 
 ---
 
