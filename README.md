@@ -28,7 +28,7 @@
 
 Atuo como Analista de Negócios e Product Owner em software de gestão para supermercados, com experiência em VB6, desenvolvimento de integrações, e criação de ferramentas para melhorar processos internos.
 
-Tenho interesse também em mecânica automotiva, principalmente em BMW, buscando sempre aprender coisas novas e me desenvolver em várias áreas.
+Tenho interesse também em mecânica automotiva, principalmente em <img src="https://aleen42.github.io/badges/src/bmw.svg" alt="BMW Badge"> , buscando sempre aprender coisas novas e me desenvolver em várias áreas.
 
 ---
 
