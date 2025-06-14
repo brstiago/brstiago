@@ -5,12 +5,17 @@
 - Estudando e aprendendo sempre, buscando melhorar e crescer profissionalmente
 
 ---
+ <div align="center">
+  <a href="https://github.com/brstiago">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brstiago&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brstiago&layout=compact&langs_count=7&theme=radical"/>
+
+---
 
 ## 📊 Minhas Linguagens mais usadas:
 
 <!-- START LANGUAGE STATS -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![VB6](https://img.shields.io/badge/-VB6-5C2D91?style=flat&logo=visual-basic&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -23,23 +28,21 @@
 
 Atuo como Analista de Negócios e Product Owner em software de gestão para supermercados, com experiência em VB6, desenvolvimento de integrações, e criação de ferramentas para melhorar processos internos.
 
-Tenho interesse também em mecânica automotiva, buscando sempre aprender coisas novas e me desenvolver em várias áreas.
+Tenho interesse também em mecânica automotiva, principalmente em BMW, buscando sempre aprender coisas novas e me desenvolver em várias áreas.
 
 ---
 
-## 🚀 Meus Projetos:
+## 🚀 Alguns dos meus Projetos:
 
 - Extensão Chrome para monitoramento de solicitações iOTY
-- Ferramentas internas para ERP de supermercado
 - Projetos pessoais de automação e produtividade
 
 ---
 
 ## 📫 Como me encontrar:
 
-- LinkedIn: [linkedin.com/in/tiago-braga](https://www.linkedin.com/in/tiago-braga/)
-- GitHub: [github.com/tiagobraga](https://github.com/tiagobraga)
-- Email: tiago.braga@live.com
+ <a href = "mailto:tiago.braga.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=apple&logoColor=white" target="_blank"></a>  	
+  <a href="https://www.linkedin.com/in/tiago-braga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
 
