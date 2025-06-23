@@ -7,7 +7,7 @@
  <div align="center">
   <a href="https://github.com/brstiago">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brstiago&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brstiago&layout=compact&langs_count=7&theme=radical"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brstiago&layout=compact&langs_count=9&theme=radical"/>
 ---
 
 ## 📊 Linguagens que já usei:
@@ -22,7 +22,7 @@
 
 ---
 
-## 💼 Sobre mim:
+## 😎 Sobre mim:
 
 Atuo como Analista de Negócios e Product Owner em software de gestão para supermercados, com experiência em VB6, desenvolvimento de integrações, e criação de ferramentas para melhorar processos internos.
 
@@ -42,9 +42,10 @@ Tenho interesse também em mecânica automotiva, principalmente em <img src="htt
 <tbody>
 
 
-<tr><td>🤖Monitor Ioty 1.0:    </td><td> 👉<a href="https://github.com/brstiago/iOTY-Monitor---Extens-o-Cromhium.git"> 💾</a>   </td></tr>
-<tr><td>🤖Gerador de Senhas Padronizadas:   </td><td> 👉<a href="https://github.com/brstiago/Gerador-de-Senhas-.git"> 💾</a>      </td></tr>
-<tr><td>🤖Formulário Simples HTML+CSS+JavaScript:  </td><td> 👉<a href="https://github.com/brstiago/Formul-rio-HTML-CSS.git"> 💾</a>   </td></td></tr>
+<tr><td>🧑‍💻Monitor Ioty 1.0    </td><td> ✅<a href="https://github.com/brstiago/iOTY-Monitor---Extens-o-Cromhium.git"> 💾</a>   </td></tr>
+<tr><td>🧑‍💻Gerador de Senhas Padronizadas   </td><td> ✅<a href="https://github.com/brstiago/Gerador-de-Senhas-.git"> 💾</a>      </td></tr>
+<tr><td>🧑‍💻Formulário Simples HTML+CSS+JavaScript  </td><td> ✅<a href="https://github.com/brstiago/Formul-rio-HTML-CSS.git"> 💾</a>   </td></td></tr>
+<tr><td>🧑‍💻Conector MySQL - Altera Chave Arquivo .txt/.ini - Linear Sistemas  </td><td> ✅<a href="https://github.com/brstiago/Conector-Banco-Dados-MYSql.git"> 💾</a>   </td></td></tr>
 
 
 </tbody>
